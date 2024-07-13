@@ -43,8 +43,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
+
 # Gerador-de-Grafos
 Um sistema (software) que armazena em memória um Grafo Simples (sem arestas paralelas ou laços) cuja definição seja inserida pelo usuário do sistema. 
 >>>>>>> e2e0f53dc24626ba1723a0643684ae62c7d63e46
