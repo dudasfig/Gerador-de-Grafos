@@ -1,0 +1,13 @@
+J A 5
+J P 6 
+J Q 10 
+P C 6 
+Q P 3
+Q BJ 6 
+BJ E 3 
+P BJ 11 
+Q C 4 
+C E 8 
+A BJ 13
+
+
